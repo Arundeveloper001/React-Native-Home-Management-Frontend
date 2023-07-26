@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FoodApplication",
+    "slug": "FoodApplication",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Splash.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6759FF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Splash.png"
+        
+      }
+    },
+    "web": {
+      "favicon": "./assets/splash copy.png"
+    }
+  }
+}
